@@ -1,4 +1,4 @@
-create database if not exists `inventory-app`;
+CREATE DATABASE IF NOT EXISTS `inventory-app`;
 
 use `inventory-app`;
 

@@ -39,7 +39,7 @@ CREATE TABLE `users` (
 
 LOCK TABLES `users` WRITE;
 /*!40000 ALTER TABLE `users` DISABLE KEYS */;
-INSERT INTO `users` VALUES (1,'admin','admin@yopmail.com','5f4dcc3b5aa765d61d8327deb882cf99','admin','1970-01-19 18:05:08');
+INSERT INTO `users` VALUES (1,'admin','admin@yopmail.com','5f4dcc3b5aa765d61d8327deb882cf99','admin','2021-01-10 18:05:08');
 /*!40000 ALTER TABLE `users` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
