@@ -9,10 +9,10 @@ RUN npm install
 # Step 2: Build and run the project
 RUN nodemon app.js
 
-# Login Credeentials:
+# Login Credentials:
 
-userName: admin
-password: password
+1. userName: admin
+2. password: password
 # API's build
 
 1. POST - /auth/user/login - fetch the username and password from users table
